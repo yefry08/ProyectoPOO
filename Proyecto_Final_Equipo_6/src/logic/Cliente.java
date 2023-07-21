@@ -7,5 +7,5 @@ public class Cliente {
 	private String direccion;
 	private String telefono;
 	private Factura factura;
-
+	
 }
