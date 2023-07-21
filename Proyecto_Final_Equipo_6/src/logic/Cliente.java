@@ -8,4 +8,5 @@ public class Cliente {
 	private String telefono;
 	private Factura factura;
 	
+	
 }
